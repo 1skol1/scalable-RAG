@@ -17,7 +17,7 @@ We create the python API to serve the system in fastAPI. This fastAPI api is bei
 
 # Design Diagram
 
-![alt text](https://github.com/1skol1/)
+![alt text](https://github.com/1skol1/scalable-RAG/blob/master/rag.jpg?raw=true)
 
 
 ## Installation
